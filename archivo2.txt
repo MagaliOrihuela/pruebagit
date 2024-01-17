@@ -1,6 +1,0 @@
-prueba inicial nuevo archivo
-
-hubo un cambio 
-
-otro cambio despues del primer commit
-
